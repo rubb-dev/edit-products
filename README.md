@@ -29,8 +29,8 @@ Esta aplicación automatiza la optimización de productos en tiendas Shopify. Ut
 1. Clona este repositorio:
 
    ```
-   git clone https://github.com/tu-usuario/shopify-product-optimization.git
-   cd shopify-product-optimization
+   git clone https://github.com/rubb-dev/edit-products.git
+   cd edit-products
 2. Instala las dependencias:
    
    ```
