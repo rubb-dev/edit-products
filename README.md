@@ -1,4 +1,4 @@
-# 🛒 Shopify Product Optimization Automation
+# 🛒 Optimización de producto automatizada para Shopify
 
 ## Descripción
 
